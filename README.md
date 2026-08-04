@@ -1,4 +1,33 @@
-<h1>Hi, I'm Christian! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<p align="center">
+  <a href="https://github.com/Christian-Arenas">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=666&text=Hello!%20I'm%20Christian" alt="Hello! I&#39;m Christian" />
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=700&height=44&lines=it%20professional%20%7C%20always%20learning%20%20%3A);tech%2C%20code%2C%20coffee%20" alt="Typing headlines" />
+</p>
+
+
+### 🚀 About Me
+
+I'm a bilingual IT professional from Nashville but now based in Los Angeles. 
+
+🔭 &nbsp;I'm currently studying for **Comptia certifications.**  
+💬 &nbsp;Ask me about **anything you want!**  
+⚡ &nbsp;Fun fact: **I love hiking.**
+### 📊 GitHub Stats
+
+<p align="center">
+  
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Christian-Arenas&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+    
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Christian-Arenas&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
 
 <h2>👨‍💻 IT Projects:</h2>
 
