@@ -32,7 +32,7 @@ I'm a bilingual IT professional from Nashville but now based in Los Angeles.
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Group Policy Management](https://github.com/Christian-Arenas/Group-Policy-Management-Lab/blob/main/README.md)
 
 <h2> 🤳 Connect with me:</h2>
 
