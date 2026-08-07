@@ -16,7 +16,7 @@ I'm a bilingual IT professional from Nashville but now based in Los Angeles.
 
 🔭 &nbsp;I'm currently studying for **Comptia certifications.**  
 💬 &nbsp;Ask me about **anything you want!**  
-⚡ &nbsp;Fun fact: **I love hiking.**
+⚡ &nbsp;Fun fact: **I love hiking, running, and football.**
 ### 📊 GitHub Stats
 
 <p align="center">
